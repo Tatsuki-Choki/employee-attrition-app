@@ -23,7 +23,7 @@
 ## インストール方法
 ```bash
 # リポジトリのクローン
-git clone [リポジトリURL]
+git clone https://github.com/Tatsuki-Choki/employee-attrition-app.git
 
 # 必要なパッケージのインストール
 pip install -r requirements.txt
